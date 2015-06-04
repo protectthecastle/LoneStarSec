@@ -2,9 +2,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 <meta name="author" content="Your name here..." />
-<meta name="class" content="INFO 2450 - Web Content Design" />
-<meta name="section" content="001,002, 003, 004 or X01" />
-<meta name="project" content="Project 1, Project2 or ..." />
+<meta name="class" content="INFO 4430 - Systems Design and Implementation" />
+<meta name="section" content="601" />
+<meta name="project" content="Individual GitHub Assignment" />
 <meta name="due_date" content="Whenever it's due...." />
 <meta name="instructor" content="Kim Bartholomew" />
 <meta name="description" content="Description of the project here..." />
@@ -14,7 +14,7 @@
  <!-- This meta tag sets browser to be the size of the device width -->
 <meta name="viewport"  content="initial-scale=1, width=device-width" />
 
-<title>PrintMobile Practice - Media Queries Test Repository Eric Morris</title>
+<title>PrintMobile Practice - Place your full name here</title>
 
 <link href="styles.css" rel="stylesheet" type="text/css" />
 <link href="screen.css" rel="stylesheet" type="text/css" media="screen" />
